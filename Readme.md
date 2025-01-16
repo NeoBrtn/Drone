@@ -56,6 +56,14 @@ The drone frame is **3D printed** for lightweight durability and easy customizat
 You can download the necessary STL files for printing the frame from:  
 👉 [Frame STL Files](https://cults3d.com/en/3d-model/gadget/apm-2-8-drone-frame)
 
+### **Requiered files**
+
+| File / Part       | Amount |
+|-------------------|--------|
+| **DroneBase.stl** | 1      |
+| **DroneTop.stl**  | 1      |
+| **DroneArm.stl**  | 4      |
+
 ### 🏗️ **Recommended Print Settings**  
 - **Material**: ABS
 - **Infill**: 30%-50% for strength
