@@ -70,6 +70,13 @@ You can download the necessary STL files for printing the frame from:
 
 ---
 
+### **Connexions**
+**Full view:**
+![Full View](images/full.png)
+
+**Zoomed view:**
+![Full View](images/zoomed.png)
+
 ## Software Components  
 - **Flight Controller Code**: Written in Arduino C++  
 - **PID Controller**: Implemented for stabilization
